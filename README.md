@@ -1,11 +1,11 @@
 # MultiAgent_Trajectory_Optimization
 
-##Results
+## Results
 ![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/test_1.gif)
 ![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/test_2.gif)
 ![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/test_3.gif)
 
-##Approach
+## Approach
 ![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/utils/problem.png)
 ![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/utils/quad_dynamics_1.png)
 ![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/utils/quad_dynamics_2.png)
