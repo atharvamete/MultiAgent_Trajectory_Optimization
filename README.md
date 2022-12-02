@@ -1,9 +1,8 @@
 # MultiAgent_Trajectory_Optimization
 
 ## Results
-![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/test_1.gif)
-![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/test_2.gif)
-![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/test_3.gif)
+<img src="/test_1.gif" width="40%" height="40%"/> <img src="/test_2.gif" width="40%" height="40%"/>
+<img src="/test_3.gif" width="40%" height="40%"/>
 
 ## Approach
 ![](https://github.com/atharva7am/MultiAgent_Trajectory_Optimization/blob/main/utils/problem.png)
